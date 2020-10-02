@@ -1,4 +1,4 @@
-Thanks for using my password generator <3
+Just use the Installer or use the .py file if you have installed python
 
 
 Made by GHaxZ
